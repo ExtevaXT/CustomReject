@@ -2,4 +2,4 @@
 Allows to change Forge hardcoded rejection messages.
 
 Features:
-- Change vanilla rejection message.
+- Change rejection message for vanilla connection.

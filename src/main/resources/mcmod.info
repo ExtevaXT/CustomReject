@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "customreject",
+        "name": "Custom Mod Rejection Messsage",
+        "description": "Allows you to customize the Mod Rejection Messsage",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "dependencies": [],
+        "url": "https://external.su",
+        "authorList": [
+            "phit"
+        ]
+    }
+]

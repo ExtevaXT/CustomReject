@@ -28,7 +28,7 @@ val forgeVersion: String = "40.2.14"
 val mixinVersion: String = "0.8.5"
 
 val modId: String = "customreject"
-val modVersion: String = "1.0.0"
+val modVersion: String = "1.0.1"
 
 // Optional dev-env properties
 val mappingsChannel: String = project.findProperty("mappings_channel") as String? ?: "official"
